@@ -651,7 +651,7 @@ export default function Home() {
         <p>Made for local communities, one shop at a time.</p>
 
         <span className="footer-note">
-          © {new Date().getFullYear()} Apna Bazaar · Demo website
+          © 2026 Apna Bazaar · Demo website
         </span>
       </footer>
 
